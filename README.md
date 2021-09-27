@@ -21,7 +21,6 @@ Features Of the application:
 Snapshots of the project 👇
 ![Alt Text](snaps/1.png?raw=true "Title")
 ![Alt Text](snaps/2.png?raw=true "Title")
-![Alt Text](snaps/3.png?raw=true "Title")
 ![Alt Text](snaps/4.png?raw=true "Title")
 ![Alt Text](snaps/5.png?raw=true "Title")
 ![Alt Text](snaps/5.png?raw=true "Title")
